@@ -1,0 +1,27 @@
+.textinputs {
+  font-family: "Arial", sans-serif;
+  font-size: 18px;
+  color: #ffc145;
+  text-align: center;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+}
+
+.input {
+  border-radius: 25px;
+  width: 250px;
+  font-size: 12px;
+  padding-left: 15px;
+  color: #14213d;
+}
+
+.button {
+  padding: 12px 32px;
+  background: #fca311;
+  border-radius: 10px;
+  width: 315px;
+}

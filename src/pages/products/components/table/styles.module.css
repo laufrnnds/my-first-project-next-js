@@ -1,0 +1,39 @@
+.container {
+  width: 600px;
+}
+
+.table {
+  width: 100%;
+}
+
+.columns {
+  background-color: #14213d;
+}
+
+.column {
+  color: #ffc145;
+  text-align: center;
+  justify-content: center;
+  border: 2px solid #e5e5e5;
+}
+
+.tbody,
+.rows {
+  background-color: #ffc145;
+  border: 2px solid #e5e5e5;
+  color: #14213d;
+  font-weight: 500;
+}
+
+.row {
+  text-align: center;
+  border: 2px solid #e5e5e5;
+}
+
+.text {
+  font-family: "Arial", sans-serif;
+  font-size: 18px;
+  width: 900px;
+  color: #ffc145;
+  text-align: center;
+}

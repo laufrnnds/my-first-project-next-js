@@ -1,0 +1,31 @@
+.container {
+  width: 300px;
+  height: 170px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #14213d;
+  border: 2px solid #ffc145;
+  padding: 15px;
+  gap: 16px;
+}
+
+.title {
+  font-family: "Arial", sans-serif;
+  font-size: 18px;
+  color: #ffc145;
+  text-align: center;
+}
+
+.list {
+  column-count: 2;
+  list-style-type: none;
+}
+
+.item {
+  font-family: "Arial", sans-serif;
+  font-size: 14px;
+  color: #ffc145;
+  text-align: center;
+}

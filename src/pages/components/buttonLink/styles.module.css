@@ -1,0 +1,12 @@
+.buttonLink {
+  padding: 12px 32px;
+  background: #fca311;
+  border-radius: 10px;
+}
+
+.buttonLinkAuth {
+  padding: 12px 32px;
+  background: #e5e5e5;
+  color: black;
+  border-radius: 10px;
+}
